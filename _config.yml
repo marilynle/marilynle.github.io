@@ -19,8 +19,8 @@ title: Marilyn Landim Esko
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  About Me: "aboutme"
+# navbar-links:
+ # About Me: "aboutme"
   # Resources:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
@@ -73,7 +73,7 @@ social-network-links:
   github: marilynle
   twitter: marilynlandim
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: marilynlandim
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -89,7 +89,7 @@ social-network-links:
 share-links-active:
   twitter: true
  # facebook: true
- # linkedin: true
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

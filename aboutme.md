@@ -4,13 +4,27 @@ title: About me
 
 ---
 
-I’m a data scientist, economist and quant living in Houston. My background and interests are:
+
+I’m a Data Scientist, Economist and Quant living in Houston. 
+
+My background and interests are:
 
 - Data Science
-- Machine Learning/AI
+- Machine Learning/ Artificial Intelligence/ Deep Learning 
 - Economics
+- Statistics
 - Quantitative Finance
 - Econometrics
-- Times Series
+- Time Series
+- Natural Language Processing
+- Linguistics
+- Computational Linguistics
+
+Some of my skills
+- Python
+- R
+- S+
+- SQL
+- AWS
 
 

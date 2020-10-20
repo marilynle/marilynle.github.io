@@ -2,7 +2,6 @@
 layout: post
 title: Data Storytelling and Visualization
 subtitle: World Economy 10 years at a glance
-image: /img/grafico_gdp_2010.png
 gh-repo: marilynle/Data-Storytelling-and-Visualization
 gh-badge: [star]
 tags: [summary]

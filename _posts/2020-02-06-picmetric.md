@@ -8,4 +8,7 @@ tags: [summary]
 
 ---
 
+PicMetric uses machine learning to analyze your photos
 
+- Collaborated with a full stack team of data scientists and web developers
+- Worked with a YOLOv3 (image recognition model) to perform object detection on uploaded images

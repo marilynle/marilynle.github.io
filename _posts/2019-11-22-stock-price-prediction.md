@@ -2,7 +2,7 @@
 layout: post
 title: Stock price prediction
 subtitle: Microsoft (MSFT) stock price forecasting with Random Forest Regression Model
-gh-repo: https://github.com/marilynle/Stock-price-prediction
+gh-repo: marilynle/Stock-price-prediction
 gh-badge: [star]
 tags: [summary]
 
